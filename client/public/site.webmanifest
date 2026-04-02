@@ -1,0 +1,7 @@
+{
+  "name": "ALFAFitness",
+  "short_name": "ALFAFitness",
+  "theme_color": "#050505",
+  "background_color": "#050505",
+  "display": "standalone"
+}

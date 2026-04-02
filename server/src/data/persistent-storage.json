@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "_id": "04e9496d6624319d43a38493",
+      "name": "Dinusa_07",
+      "email": "janikoaduwkina983@gmail.com",
+      "password": "$2a$10$HRnwboIb1hRGlHP.FKNqT.b8Y4.ih6gMgwpTIeknqHO9re8D5d2rO",
+      "phone": "+87754143122",
+      "membership": "elite",
+      "role": "member",
+      "goal": "",
+      "avatar": "",
+      "joinedAt": "2026-03-31T11:24:43.027Z",
+      "subscriptionStatus": "active",
+      "resetPasswordToken": null,
+      "resetPasswordExpiresAt": null,
+      "createdAt": "2026-03-31T11:24:43.027Z",
+      "updatedAt": "2026-04-02T11:20:19.047Z"
+    },
+    {
+      "_id": "4e56727f5417819d43af12a6",
+      "name": "Mail Test",
+      "email": "mailtest123456@gmail.com",
+      "password": "$2a$10$ETj5tqQZlCNdax4450CbSeIAeJv2TJ2OcDglGGarVpLWVW7v/wtDG",
+      "phone": "+77012345678",
+      "membership": "starter",
+      "role": "member",
+      "goal": "test",
+      "avatar": "",
+      "joinedAt": "2026-03-31T11:37:20.294Z",
+      "subscriptionStatus": "active",
+      "resetPasswordToken": "c6c5fe122ba6b8cdae47829951134f80a59c7779e2f61675",
+      "resetPasswordExpiresAt": "2026-03-31T12:18:44.070Z",
+      "createdAt": "2026-03-31T11:37:20.294Z",
+      "updatedAt": "2026-03-31T11:48:44.070Z"
+    },
+    {
+      "_id": "118049635c5ae19d4ded584e",
+      "name": "ILIAS",
+      "email": "testakwhite@gmail.com",
+      "password": "$2a$10$NAFIy5otDHBZI2m1Qq/WSeCLl4LqlqEmoswczjrMfMSmbdJ8OwdhG",
+      "phone": "87754143122",
+      "membership": "pro",
+      "role": "member",
+      "goal": "",
+      "avatar": "",
+      "joinedAt": "2026-04-02T11:21:33.518Z",
+      "subscriptionStatus": "active",
+      "resetPasswordToken": null,
+      "resetPasswordExpiresAt": null,
+      "createdAt": "2026-04-02T11:21:33.518Z",
+      "updatedAt": "2026-04-02T11:22:00.768Z"
+    }
+  ],
+  "bookings": [
+    {
+      "_id": "116d54a71cad19d43ac5ddf",
+      "status": "confirmed",
+      "createdAt": "2026-03-31T11:34:22.943Z",
+      "updatedAt": "2026-03-31T11:34:22.943Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "mon-boxing",
+      "className": "Boxing Fundamentals",
+      "trainer": "Arman Sadykov",
+      "day": "Monday",
+      "time": "06:30",
+      "level": "Beginner"
+    },
+    {
+      "_id": "c4ce2650ac9e19d43d1355f",
+      "status": "confirmed",
+      "createdAt": "2026-03-31T12:14:37.407Z",
+      "updatedAt": "2026-03-31T12:14:37.407Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "sat-boxing",
+      "className": "Sparring Club",
+      "trainer": "Mila Hart",
+      "day": "Saturday",
+      "time": "11:00",
+      "level": "Intermediate"
+    },
+    {
+      "_id": "5f00d45e7c2dd19d48a4b23e",
+      "status": "confirmed",
+      "createdAt": "2026-04-01T10:44:06.334Z",
+      "updatedAt": "2026-04-01T10:44:06.334Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "fri-gym",
+      "className": "Athlete Engine",
+      "trainer": "Noah Vega",
+      "day": "Friday",
+      "time": "17:30",
+      "level": "All levels"
+    },
+    {
+      "_id": "c99ab759c1d6a19d48a4b439",
+      "status": "confirmed",
+      "createdAt": "2026-04-01T10:44:06.841Z",
+      "updatedAt": "2026-04-01T10:44:06.841Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "thu-karate",
+      "className": "Karate Flow",
+      "trainer": "Aiko Tanaka",
+      "day": "Thursday",
+      "time": "20:00",
+      "level": "All levels"
+    },
+    {
+      "_id": "1bb7dd1a5beac19d48a4b62d",
+      "status": "confirmed",
+      "createdAt": "2026-04-01T10:44:07.341Z",
+      "updatedAt": "2026-04-01T10:44:07.341Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "wed-boxing",
+      "className": "Ring Conditioning",
+      "trainer": "Arman Sadykov",
+      "day": "Wednesday",
+      "time": "18:30",
+      "level": "Advanced"
+    },
+    {
+      "_id": "b9c6a7ed3028919d4dedeb6d",
+      "status": "confirmed",
+      "createdAt": "2026-04-02T11:22:11.181Z",
+      "updatedAt": "2026-04-02T11:22:11.181Z",
+      "user": "118049635c5ae19d4ded584e",
+      "scheduleId": "mon-boxing",
+      "className": "Boxing Fundamentals",
+      "trainer": "Arman Sadykov",
+      "day": "Monday",
+      "time": "06:30",
+      "level": "Beginner"
+    },
+    {
+      "_id": "f1a5ce2d7b8e3819d4dedef21",
+      "status": "confirmed",
+      "createdAt": "2026-04-02T11:22:12.129Z",
+      "updatedAt": "2026-04-02T11:22:12.129Z",
+      "user": "118049635c5ae19d4ded584e",
+      "scheduleId": "mon-karate",
+      "className": "Karate Precision",
+      "trainer": "Aiko Tanaka",
+      "day": "Monday",
+      "time": "19:00",
+      "level": "All levels"
+    }
+  ],
+  "subscriptions": [
+    {
+      "_id": "74ee67d7a7cba819d43a384af",
+      "status": "active",
+      "startedAt": "2026-03-31T11:24:43.055Z",
+      "createdAt": "2026-03-31T11:24:43.055Z",
+      "updatedAt": "2026-03-31T11:24:43.055Z",
+      "user": "04e9496d6624319d43a38493",
+      "membership": "pro",
+      "price": "$79",
+      "renewalDate": "2026-05-01T11:24:43.055Z"
+    },
+    {
+      "_id": "7302f5f0fe2f9819d4895a824",
+      "status": "active",
+      "startedAt": "2026-04-01T10:27:40.708Z",
+      "createdAt": "2026-04-01T10:27:40.708Z",
+      "updatedAt": "2026-04-01T10:27:40.708Z",
+      "user": "04e9496d6624319d43a38493",
+      "membership": "pro",
+      "price": "$79",
+      "renewalDate": "2026-05-01T10:27:40.708Z"
+    },
+    {
+      "_id": "3ff3ebc0f1cc4819d4895c215",
+      "status": "active",
+      "startedAt": "2026-04-01T10:27:47.349Z",
+      "createdAt": "2026-04-01T10:27:47.349Z",
+      "updatedAt": "2026-04-01T10:27:47.349Z",
+      "user": "04e9496d6624319d43a38493",
+      "membership": "elite",
+      "price": "$149",
+      "renewalDate": "2026-05-01T10:27:47.349Z"
+    },
+    {
+      "_id": "43ed63919eb7619d489bab04",
+      "status": "active",
+      "startedAt": "2026-04-01T10:34:14.660Z",
+      "createdAt": "2026-04-01T10:34:14.660Z",
+      "updatedAt": "2026-04-01T10:34:14.660Z",
+      "user": "04e9496d6624319d43a38493",
+      "membership": "pro",
+      "price": "$59.99",
+      "renewalDate": "2026-05-01T10:34:14.660Z"
+    },
+    {
+      "_id": "3319948981546819d489bdc33",
+      "status": "active",
+      "startedAt": "2026-04-01T10:34:27.251Z",
+      "createdAt": "2026-04-01T10:34:27.251Z",
+      "updatedAt": "2026-04-01T10:34:27.251Z",
+      "user": "04e9496d6624319d43a38493",
+      "membership": "elite",
+      "price": "$99.99",
+      "renewalDate": "2026-05-01T10:34:27.251Z"
+    },
+    {
+      "_id": "5ededd7f12177819d4dedc2c0",
+      "status": "active",
+      "startedAt": "2026-04-02T11:22:00.768Z",
+      "createdAt": "2026-04-02T11:22:00.768Z",
+      "updatedAt": "2026-04-02T11:22:00.768Z",
+      "user": "118049635c5ae19d4ded584e",
+      "membership": "pro",
+      "price": "$59.99",
+      "renewalDate": "2026-05-02T11:22:00.768Z"
+    }
+  ],
+  "trainerRequests": [
+    {
+      "_id": "1c8eca77dd93d19d43acc926",
+      "status": "pending",
+      "preferredTime": "Monday 06:30, Wednesday 18:30",
+      "notes": "Trainer schedule: Monday 06:30, Wednesday 18:30",
+      "createdAt": "2026-03-31T11:34:50.406Z",
+      "updatedAt": "2026-03-31T11:34:50.406Z",
+      "user": "04e9496d6624319d43a38493",
+      "trainerId": "arman",
+      "trainerName": "Arman Sadykov",
+      "goal": "PRO BOXER"
+    },
+    {
+      "_id": "9527832015abd819d48983f58",
+      "status": "pending",
+      "preferredTime": "Monday 06:30, Wednesday 18:30",
+      "notes": "уц",
+      "createdAt": "2026-04-01T10:30:30.488Z",
+      "updatedAt": "2026-04-01T10:30:30.488Z",
+      "user": "04e9496d6624319d43a38493",
+      "trainerId": "noah",
+      "trainerName": "Noah Vega",
+      "goal": "Strength & Conditioning"
+    }
+  ]
+}
