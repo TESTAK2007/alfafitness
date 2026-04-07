@@ -4,7 +4,7 @@
       "_id": "04e9496d6624319d43a38493",
       "name": "Dinusa_07",
       "email": "janikoaduwkina983@gmail.com",
-      "password": "$2a$10$HRnwboIb1hRGlHP.FKNqT.b8Y4.ih6gMgwpTIeknqHO9re8D5d2rO",
+      "password": "$2a$10$FiMpttn1rsDNTCX4MnxXTusd0a68xjo9M31UjTTL97iceowMn7aHS",
       "phone": "+87754143122",
       "membership": "elite",
       "role": "member",
@@ -15,7 +15,7 @@
       "resetPasswordToken": null,
       "resetPasswordExpiresAt": null,
       "createdAt": "2026-03-31T11:24:43.027Z",
-      "updatedAt": "2026-04-02T11:20:19.047Z"
+      "updatedAt": "2026-04-02T17:55:30.350Z"
     },
     {
       "_id": "4e56727f5417819d43af12a6",
@@ -143,6 +143,32 @@
       "day": "Monday",
       "time": "19:00",
       "level": "All levels"
+    },
+    {
+      "_id": "2de3c4c3a282a819d4f595baf",
+      "status": "confirmed",
+      "createdAt": "2026-04-02T17:59:09.487Z",
+      "updatedAt": "2026-04-02T17:59:09.487Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "ср-бокс",
+      "className": "Подготовка к рингу.",
+      "trainer": "Arman Sadykov",
+      "day": "Среда.",
+      "time": "18:30",
+      "level": "Продвинутый"
+    },
+    {
+      "_id": "abc37cc2a06f9819d4f5962f5",
+      "status": "confirmed",
+      "createdAt": "2026-04-02T17:59:11.349Z",
+      "updatedAt": "2026-04-02T17:59:11.349Z",
+      "user": "04e9496d6624319d43a38493",
+      "scheduleId": "пн-бокс",
+      "className": "Основы бокса.",
+      "trainer": "Arman Sadykov",
+      "day": "Понедельник.",
+      "time": "06:30",
+      "level": "Начинающий"
     }
   ],
   "subscriptions": [
